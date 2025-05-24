@@ -1,6 +1,6 @@
 ==========+ PRICE LIST +==========
 
-tomatos = 10 lv (per kilo)
+tomatos = 5.5 lv (per kilo)
 cucumbers = 5 lv (per kilo)
 onions = 3.80 lv (per 700g)
 
